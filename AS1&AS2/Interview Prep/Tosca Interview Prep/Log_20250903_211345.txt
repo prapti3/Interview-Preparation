@@ -1,0 +1,32 @@
+[3] 21:13:45: Log started for 'C:\Users\prapt\OneDrive\Desktop\Tricentis Tosca\Interview Prep\Tosca Interview Prep\Tosca Interview Prep.tws'
+[3] 21:13:45: Log level: 4
+[3] 21:13:45: Release: 16.0.0.3027
+[3] 21:13:45: Execution Approval is disabled.
+[3] 21:13:45: No service discovery configured.
+[3] 21:13:45:  + CloudDistributedExecutionAddIn: CloudDistributedExecutionAddIn 16.0.0.3027 (3027)
+[3] 21:13:45:  + DistributedExecutionAddIn: DistributedExecutionAddIn 16.0.0.3027 (3027)
+[3] 21:13:45:  + ElasticExecutionGridAddIn: ElasticExecutionGridAddIn 16.0.0.3027 (3027)
+[3] 21:13:45:  - ExecutionApprovalAddIn: ExecutionApprovalAddIn 16.0.0.3027 (3027)
+[3] 21:13:45:  + ExploratoryTestingAssistant: ExploratoryTestingAssistantAddIn 16.0.0.3027 (3027)
+[3] 21:13:45:  + ExploratoryTestingAssistantUI: ExploratoryTestingAssistantUIAddIn 16.0.0.3027 (3027)
+[3] 21:13:45:  + IntegrationManagementAddIn: IntegrationManagementAddIn 16.0.0.3027 (3027)
+    + : SAPSolutionManagerIntegration 16.0.0.3027 (3027)
+[3] 21:13:45: Search started on 1 objects for query '->PROJECT->SUBPARTS:TCFolder[Name=="Execution"]->SUBPARTS:TCFolder=>SUBPARTS:InteractiveSession'
+[3] 21:13:45: Searcher found 0 results in 2.9999 ms
+[3] 21:13:45:  + OptIntAddIn: OptIntAddIn 16.0.0.3027 (3027)
+[3] 21:13:45:  + QTestIntegrationAddIn: QTestIntegrationAddIn 16.0.0.3027 (3027)
+[3] 21:13:45:  + RemoteControl: RemoteControlAddIn 16.0.0.3027 (3027)
+[3] 21:13:45:  + Reporting: ReportingAddIn 16.0.0.3027 (3027)
+[3] 21:13:45:  + ReportingUI: ReportingUIAddIn 16.0.0.3027 (3027)
+[3] 21:13:45:  + RequirementsManagementAddIn: RequirementsManagement 16.0.0.3027 (3027)
+[3] 21:13:45:  + RequirementsManagementUIAddIn: RequirementsManagementUI 16.0.0.3027 (3027)
+[3] 21:13:45:  + SAPCloudAlmAddIn: SAPCloudAlmAddIn 16.0.0.3027 (3027)
+[3] 21:13:45:  + SAPSolutionManagerAddIn: SAPSolutionManagerAddIn 16.0.0.3027 (3027)
+[3] 21:13:45:  + TestCaseDesign: TestCaseDesign 16.0.0.3027 (3027)
+[3] 21:13:45:  + ControlFlowDiagram: TestCaseVisualizationAddIn 16.0.0.3027 (3027)
+[3] 21:13:45:  + XDefinitions: XDefinitions 16.0.0.3027 (3027)
+[3] 21:13:45:  + XDefinitionsUI: XDefinitionsUI 16.0.0.3027 (3027)
+[3] 21:13:45: Opened from Workspace File 'C:\Users\prapt\OneDrive\Desktop\Tricentis Tosca\Interview Prep\Tosca Interview Prep\Tosca Interview Prep.tws'
+[3] 21:24:13: Layout not saved: No Panels or Tabbed Documents
+[3] 21:24:13: Closing Workspace!
+[3] 21:24:13: Log closed!
